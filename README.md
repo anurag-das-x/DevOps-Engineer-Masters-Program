@@ -1,1 +1,1 @@
-# lms-devops-day1
+# DevOps Engineer Masters Program
